@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is called text-utility and act as a text utility app where you can format your text and use some text utility and hope I will add more functionality to it.
+To access the app please click on below link
+[text-Utility](https://text-utilty.herokuapp.com/)
 
 ## Available Scripts
 
